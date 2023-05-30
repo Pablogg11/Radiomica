@@ -1,0 +1,2 @@
+# Radiomica
+TFG - Radiómica
